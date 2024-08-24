@@ -8,4 +8,4 @@ Each episode in this series dives deep into a specific Power Automate technique,
 
 The provided tools are stored depending on the connector that has the highest value of purpose in the DPA flow process.
 
-May the Journey of Tech Hex Breaking be .
+May the Journey of Tech Hex Breaking be a rewarding one.
