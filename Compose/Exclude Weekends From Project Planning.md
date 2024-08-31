@@ -1,4 +1,3 @@
-```markdown
 # Hex Breaker Tech - Episode 4: Excluding Weekends in Project Planning Using Power Automate
 
 Welcome back to Hex Breaker Tech, where we unravel complex automation spells and hexes with ease! In this episode, we’re diving into the world of project planning. We'll guide you through setting up a Power Automate flow that plans projects over a set number of days while skillfully skipping those pesky weekends. Let's break this hex and bring your projects into perfect alignment!
